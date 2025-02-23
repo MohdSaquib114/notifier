@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+  
     "build": "npm install",
     "start": "npx tsc && node dist/server.js",
-    "dev": "cd ./src && nodemon ./server.ts"
+    "dev"  : "cd ./src && nodemon ./server.ts",
+    "seed" : "npx tsc && node dist/config/seed.js"
   },
   "keywords": [],
   "author": "",

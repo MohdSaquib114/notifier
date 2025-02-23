@@ -1,0 +1,156 @@
+[
+    {
+        "user": "John Doe Sir 1",
+        "type": "friend_request",
+        "message": "John Doe sent you a friend request.",
+        "isRead": false,
+        "createdAt": "2025-02-21T10:00:00Z"
+    },
+    {
+        "user": "Alice Johnson",
+        "type": "like",
+        "message": "Alice liked your post.",
+        "isRead": false,
+        "createdAt": "2025-02-21T10:05:00Z"
+    },
+    {
+        "user": "Bob Williams",
+        "type": "comment",
+        "message": "Bob commented: 'Nice work!' on your post.",
+        "isRead": false,
+        "createdAt": "2025-02-21T10:10:00Z"
+    },
+    {
+        "user": "Emma Brown",
+        "type": "tagged",
+        "message": "Emma tagged you in a photo.",
+        "isRead": false,
+        "createdAt": "2025-02-21T10:15:00Z"
+    },
+    {
+        "user": "Michael Smith",
+        "type": "new_device_login",
+        "message": "New login detected from a Chrome browser on Windows.",
+        "isRead": false,
+        "createdAt": "2025-02-21T10:20:00Z"
+    },
+    {
+        "user": "David Lee",
+        "type": "mention",
+        "message": "David mentioned you in a comment.",
+        "isRead": false,
+        "createdAt": "2025-02-21T10:25:00Z"
+    },
+    {
+        "user": "Sophia Martinez",
+        "type": "friend_request",
+        "message": "Sophia sent you a friend request.",
+        "isRead": false,
+        "createdAt": "2025-02-21T10:30:00Z"
+    },
+    {
+        "user": "Ethan Clark",
+        "type": "like",
+        "message": "Ethan liked your comment.",
+        "isRead": false,
+        "createdAt": "2025-02-21T10:35:00Z"
+    },
+    {
+        "user": "Olivia Harris",
+        "type": "comment",
+        "message": "Olivia commented: 'This is amazing!' on your photo.",
+        "isRead": false,
+        "createdAt": "2025-02-21T10:40:00Z"
+    },
+    {
+        "user": "Liam Wilson",
+        "type": "tagged",
+        "message": "Liam tagged you in a story.",
+        "isRead": false,
+        "createdAt": "2025-02-21T10:45:00Z"
+    },
+    {
+        "user": "Noah Thomas",
+        "type": "mention",
+        "message": "Noah mentioned you in a post.",
+        "isRead": false,
+        "createdAt": "2025-02-21T10:50:00Z"
+    },
+    {
+        "user": "Charlotte White",
+        "type": "mention",
+        "message": "Charlotte mentioned you in a reply.",
+        "isRead": false,
+        "createdAt": "2025-02-21T11:25:00Z"
+    },
+    {
+        "user": "Elijah Scott",
+        "type": "friend_request",
+        "message": "Elijah sent you a friend request.",
+        "isRead": false,
+        "createdAt": "2025-02-21T11:30:00Z"
+    },
+    {
+        "user": "Amelia Baker",
+        "type": "like",
+        "message": "Amelia liked your status update.",
+        "isRead": false,
+        "createdAt": "2025-02-21T11:35:00Z"
+    },
+    {
+        "user": "William Turner",
+        "type": "comment",
+        "message": "William commented: 'Awesome!' on your video.",
+        "isRead": false,
+        "createdAt": "2025-02-21T11:40:00Z"
+    },
+    {
+        "user": "Sophia Rodriguez",
+        "type": "tagged",
+        "message": "Sophia tagged you in a meme.",
+        "isRead": false,
+        "createdAt": "2025-02-21T11:45:00Z"
+    },
+    {
+        "user": "Benjamin Evans",
+        "type": "mention",
+        "message": "Benjamin mentioned you in a group chat.",
+        "isRead": false,
+        "createdAt": "2025-02-21T11:55:00Z"
+    },
+    {
+        "user": "Harper Cooper",
+        "type": "friend_request",
+        "message": "Harper sent you a friend request.",
+        "isRead": false,
+        "createdAt": "2025-02-21T12:00:00Z"
+    },
+    {
+        "user": "Evelyn Ward",
+        "type": "like",
+        "message": "Evelyn liked your story.",
+        "isRead": false,
+        "createdAt": "2025-02-21T12:05:00Z"
+    },
+    {
+        "user": "Henry Adams",
+        "type": "comment",
+        "message": "Henry commented: 'This is hilarious!' on your meme.",
+        "isRead": false,
+        "createdAt": "2025-02-21T12:10:00Z"
+    },
+    {
+        "user": "Isabella Nelson",
+        "type": "tagged",
+        "message": "Isabella tagged you in an event post.",
+        "isRead": false,
+        "createdAt": "2025-02-21T12:15:00Z"
+    },
+    {
+        "user": "Daniel Parker",
+        "type": "mention",
+        "message": "Daniel mentioned you in a discussion thread.",
+        "isRead": false,
+        "createdAt": "2025-02-21T12:25:00Z"
+    }
+]

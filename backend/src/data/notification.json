@@ -1,0 +1,224 @@
+[
+
+   
+     
+      {
+        "type": "new_device_login",
+        "message": "New login detected from Edge on Android",
+        "isRead": false,
+        "createdAt": "2025-02-20T12:03:00.000Z"
+      },
+      {
+        "type": "new_device_login",
+        "message": "New login detected from Opera on Linux",
+        "isRead": false,
+        "createdAt": "2025-02-20T12:04:00.000Z"
+      },
+      {
+        "user": "john_doe",
+        "type": "like",
+        "message": "liked your post",
+        "isRead": false,
+        "createdAt": "2025-02-20T12:05:00.000Z"
+      },
+      {
+        "user": "alice_wonder",
+        "type": "comment",
+        "message": "commented on your photo",
+        "isRead": false,
+        "createdAt": "2025-02-20T12:06:00.000Z"
+      },
+      {
+        "user": "mark_smith",
+        "type": "friend_request",
+        "message": "sent you a friend request",
+        "isRead": true,
+        "createdAt": "2025-02-20T12:07:00.000Z"
+      },
+      {
+        "user": "emma_brown",
+        "type": "tagged",
+        "message": "tagged you in a post",
+        "isRead": false,
+        "createdAt": "2025-02-20T12:08:00.000Z"
+      },
+      {
+        "user": "david_johnson",
+        "type": "mention",
+        "message": "mentioned you in a comment",
+        "isRead": true,
+        "createdAt": "2025-02-20T12:09:00.000Z"
+      },
+      {
+        "type": "new_device_login",
+        "message": "New login detected from Chrome on Windows",
+        "isRead": false,
+        "createdAt": "2025-02-20T12:00:00.000Z"
+      },
+    {
+      "user": "John Doe Sir 1",
+      "type": "friend_request",
+      "message": "sent you a friend request.",
+      "isRead": false,
+      "createdAt": "2025-02-21T10:00:00Z"
+    }, {
+        "type": "new_device_login",
+        "message": "New login detected from Firefox on Mac",
+        "isRead": false,
+        "createdAt": "2025-02-20T12:02:00.000Z"
+      },
+    {
+      "user": "Alice Johnson",
+      "type": "like",
+      "message": "liked your post.",
+      "isRead": false,
+      "createdAt": "2025-02-21T10:05:00Z"
+    },
+    {
+      "user": "Bob Williams",
+      "type": "comment",
+      "message": "commented: 'Nice work!' on your post.",
+      "isRead": false,
+      "createdAt": "2025-02-21T10:10:00Z"
+    },
+    {
+      "user": "Emma Brown",
+      "type": "tagged",
+      "message": "tagged you in a photo.",
+      "isRead": false,
+      "createdAt": "2025-02-21T10:15:00Z"
+    },
+    {
+      "user": "Michael Smith",
+      "type": "new_device_login",
+      "message": "New login detected from a Chrome browser on Windows.",
+      "isRead": false,
+      "createdAt": "2025-02-21T10:20:00Z"
+    },
+    {
+      "user": "David Lee",
+      "type": "mention",
+      "message": "mentioned you in a comment.",
+      "isRead": false,
+      "createdAt": "2025-02-21T10:25:00Z"
+    },
+    {
+      "user": "Sophia Martinez",
+      "type": "friend_request",
+      "message": "sent you a friend request.",
+      "isRead": false,
+      "createdAt": "2025-02-21T10:30:00Z"
+    },
+    {
+      "type": "new_device_login",
+      "message": "New login detected from Safari on iPhone",
+      "isRead": false,
+      "createdAt": "2025-02-20T12:01:00.000Z"
+    },
+    {
+      "user": "Ethan Clark",
+      "type": "like",
+      "message": "liked your comment.",
+      "isRead": false,
+      "createdAt": "2025-02-21T10:35:00Z"
+    },
+    {
+      "user": "Olivia Harris",
+      "type": "comment",
+      "message": "commented: 'This is amazing!' on your photo.",
+      "isRead": false,
+      "createdAt": "2025-02-21T10:40:00Z"
+    },
+    {
+      "user": "Liam Wilson",
+      "type": "tagged",
+      "message": "tagged you in a story.",
+      "isRead": false,
+      "createdAt": "2025-02-21T10:45:00Z"
+    },
+    {
+      "user": "Noah Thomas",
+      "type": "mention",
+      "message": "mentioned you in a post.",
+      "isRead": false,
+      "createdAt": "2025-02-21T10:50:00Z"
+    },
+    {
+      "user": "Charlotte White",
+      "type": "mention",
+      "message": "mentioned you in a reply.",
+      "isRead": false,
+      "createdAt": "2025-02-21T11:25:00Z"
+    },
+    {
+      "user": "Elijah Scott",
+      "type": "friend_request",
+      "message": "sent you a friend request.",
+      "isRead": false,
+      "createdAt": "2025-02-21T11:30:00Z"
+    },
+    {
+      "user": "Amelia Baker",
+      "type": "like",
+      "message": "liked your status update.",
+      "isRead": false,
+      "createdAt": "2025-02-21T11:35:00Z"
+    },
+    {
+      "user": "William Turner",
+      "type": "comment",
+      "message": "commented: 'Awesome!' on your video.",
+      "isRead": false,
+      "createdAt": "2025-02-21T11:40:00Z"
+    },
+    {
+      "user": "Sophia Rodriguez",
+      "type": "tagged",
+      "message": "tagged you in a meme.",
+      "isRead": false,
+      "createdAt": "2025-02-21T11:45:00Z"
+    },
+    {
+      "user": "Benjamin Evans",
+      "type": "mention",
+      "message": "mentioned you in a group chat.",
+      "isRead": false,
+      "createdAt": "2025-02-21T11:55:00Z"
+    },
+    {
+      "user": "Harper Cooper",
+      "type": "friend_request",
+      "message": "sent you a friend request.",
+      "isRead": false,
+      "createdAt": "2025-02-21T12:00:00Z"
+    },
+    {
+      "user": "Evelyn Ward",
+      "type": "like",
+      "message": "liked your story.",
+      "isRead": false,
+      "createdAt": "2025-02-21T12:05:00Z"
+    },
+    {
+      "user": "Henry Adams",
+      "type": "comment",
+      "message": "commented: 'This is hilarious!' on your meme.",
+      "isRead": false,
+      "createdAt": "2025-02-21T12:10:00Z"
+    },
+    {
+      "user": "Isabella Nelson",
+      "type": "tagged",
+      "message": "tagged you in an event post.",
+      "isRead": false,
+      "createdAt": "2025-02-21T12:15:00Z"
+    },
+    {
+      "user": "Daniel Parker",
+      "type": "mention",
+      "message": "mentioned you in a discussion thread.",
+      "isRead": false,
+      "createdAt": "2025-02-21T12:25:00Z"
+    }
+  ]
+  

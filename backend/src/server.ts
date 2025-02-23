@@ -2,9 +2,10 @@ import express from "express"
 import cors from "cors"
 import connectDB from "./config/db"
 import rootRoute from "./route/route"
+import "./config/seed"
 require("dotenv").config()
 
-connectDB()
+// connectDB()
 
 const app = express()
 const PORT = process.env.PORT || 4000

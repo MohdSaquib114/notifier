@@ -1,20 +1,25 @@
-import { Schema, model, Document, Types } from 'mongoose';
-
-
-interface Notifications extends Document {
-  name: string;
-  username: string;
-  password: string;
-  tasks: Types.ObjectId[];
+import mongoose, { Document, Schema, Model } from "mongoose";
+interface INotification extends Document {
+  user?: string; 
+  type: "friend_request" | "like" | "comment" | "tagged" | "new_device_login" | "mention";
+  message: string;
+  isRead: boolean;
+  createdAt: Date;
 }
 
-
-const notificationSchema = new Schema<Notifications>({
-  name: { type: String, required: true },
-  username: { type: String, required: true, unique: true },
-  password: { type: String, required: true },
-  tasks: [{ type: Schema.Types.ObjectId, ref: 'Task' }] 
+const notificationSchema: Schema = new Schema({
+  user: { type: String, required: false },
+  type: { 
+    type: String, 
+    enum: ["friend_request", "like", "comment", "tagged", "new_device_login", "mention"], 
+    required: true 
+  },
+  message: { type: String, required: true }, 
+  isRead: { type: Boolean, default: false }, 
+  createdAt: { type: Date, default: Date.now }
 });
 
 
-export const Notification = model<Notifications>('Notification', notificationSchema);
+const Notification: Model<INotification> = mongoose.model<INotification>("Notification", notificationSchema);
+
+export { Notification, INotification };
